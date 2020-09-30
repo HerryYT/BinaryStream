@@ -1,0 +1,5 @@
+# Editor files
+.vscode/settings.json
+
+# File used to test binary data
+tester.ts
